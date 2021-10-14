@@ -1,2 +1,0 @@
--Adding comment to Jira via Git
--Adding comment to say I've added a comment as a comment on Jira via Git
