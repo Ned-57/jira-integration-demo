@@ -1,1 +1,1 @@
-Thanks for reading# jira-integration-demo
+No thanks for reading# jira-integration-demo
